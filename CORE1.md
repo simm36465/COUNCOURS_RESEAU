@@ -49,4 +49,4 @@
 	|  45  |  D      |
 	|  46  |  D      |
 	
-	&copy; mohammed laksir
+&copy; mohammed laksir
