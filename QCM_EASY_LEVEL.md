@@ -77,7 +77,7 @@
 - [ ] 16 octets
 
 
-12. Quel composant n'est pas nécessaire pour que vous puissez surfer sur www.frameip.com ?
+12. Quel composant n'est pas nécessaire pour que vous puissez surfer sur www.google.com ?
 - [ ] Un serveur DHCP
 - [ ] Une adresse IP
 - [ ] Un masque de sous-réseaux
@@ -209,4 +209,4 @@
 - [ ] 255.255.255.255
 - [ ] 127.0.0.1
 
-
+&copy; mohammed laksir
