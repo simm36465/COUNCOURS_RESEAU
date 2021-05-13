@@ -1,3 +1,21 @@
+- [Les technologies RAID (Redundant Array of Independent Disks)](#les-technologies-raid--redundant-array-of-independent-disks-)
+- [Les types RAID](#les-types-raid)
+  * [RAID 0 (Volume agrégé par bandes , Striping)](#raid-0--volume-agr-g--par-bandes---striping-)
+  * [RAID 1 (Disques en miroir, Mirroring)](#raid-1--disques-en-miroir--mirroring-)
+  * [RAID 2 (volume agrégé par bandes à parité, Striping with parity)](#raid-2--volume-agr-g--par-bandes---parit---striping-with-parity-)
+  * [RAID 3 (Bit parity)](#raid-3--bit-parity-)
+  * [RAID 4 (Block parity)](#raid-4--block-parity-)
+  * [RAID 5 (Parité répartie)](#raid-5--parit--r-partie-)
+  * [RAID 6](#raid-6)
+  * [RAID 7](#raid-7)
+  * [RAID combinés](#raid-combin-s)
+  * [Comparaison](#comparaison)
+  * [RAID en pratique](#raid-en-pratique)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 ### Les technologies RAID (Redundant Array of Independent Disks)
 c'est un technologies qui permettent d'utiliser plusieurs disques durs pour gagner performances, espace disque, fiabilité.
 
