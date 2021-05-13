@@ -12,8 +12,6 @@
   * [Comparaison](#comparaison)
   * [RAID en pratique](#raid-en-pratique)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 ### Les technologies RAID (Redundant Array of Independent Disks)
